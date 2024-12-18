@@ -1,0 +1,113 @@
+[
+    {
+      "moviePoster": "https://example.com/poster1.jpg",
+      "movieTitle": "The Great Escape",
+      "genre": ["Adventure", "War"],
+      "duration": 172,
+      "releaseYear": 1963,
+      "rating": 8.2,
+      "summary": "Allied prisoners of war plan a daring escape from a Nazi prison camp during World War II."
+    },
+    {
+      "moviePoster": "https://i.ibb.co.com/Gdr6WZ5/Feature-3-1.png",
+      "movieTitle": "Inception",
+      "genre": ["Sci-Fi", "Action", "Thriller"],
+      "duration": 148,
+      "releaseYear": 2010,
+      "rating": 8.8,
+      "summary": "A skilled thief uses dream-sharing technology to perform corporate espionage but faces challenges in planting an idea in a target's mind."
+    },
+    {
+      "moviePoster": "https://example.com/poster3.jpg",
+      "movieTitle": "Spirited Away",
+      "genre": ["Animation", "Fantasy", "Adventure"],
+      "duration": 125,
+      "releaseYear": 2001,
+      "rating": 8.6,
+      "summary": "A young girl becomes trapped in a mysterious spirit world and must save her parents by working in a bathhouse."
+    },
+    {
+      "moviePoster": "https://i.ibb.co.com/Q6jRzqz/tdk-poster-1.webp",
+      "movieTitle": "The Dark Knight",
+      "genre": ["Action", "Crime", "Drama"],
+      "duration": 152,
+      "releaseYear": 2008,
+      "rating": 9.0,
+      "summary": "Batman faces his toughest challenge yet when the Joker emerges to wreak havoc on Gotham City."
+    },
+    {
+      "moviePoster": "https://i.ibb.co.com/K0bZdr1/mission-impossible-web-poster-e1689560939874.jpg",
+      "movieTitle": "MI-8",
+      "genre": ["Drama", "Thriller"],
+      "duration": 132,
+      "releaseYear": 2019,
+      "rating": 8.6,
+      "summary": "A poor family schemes to become employed by a wealthy family, leading to unexpected consequences."
+    },
+    {
+      "moviePoster": "https://i.ibb.co.com/nsTxcjX/1520099546207.jpg",
+      "movieTitle": "Mr.nobody",
+      "genre": ["Crime", "Drama"],
+      "duration": 154,
+      "releaseYear": 1994,
+      "rating": 8.9,
+      "summary": "The intertwining stories of hitmen, a boxer, and a gangster's wife unfold in a darkly comedic crime tale."
+    },
+    {
+      "moviePoster": "https://i.ibb.co.com/X40THt7/the-shawshank-redemption-1994-movie-review.jpg",
+      "movieTitle": "The Shawshank Redemption",
+      "genre": ["Drama"],
+      "duration": 142,
+      "releaseYear": 1994,
+      "rating": 9.3,
+      "summary": "A banker imprisoned for a crime he didn't commit forms a life-changing friendship with a fellow inmate."
+    },
+    {
+      "moviePoster": "https://i.ibb.co.com/BN1Z6xT/avengers-endgame-superhero-fatigue-1002x524.webp",
+      "movieTitle": "Avengers: Endgame",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "duration": 181,
+      "releaseYear": 2019,
+      "rating": 8.4,
+      "summary": "The Avengers assemble to reverse the devastation caused by Thanos and restore balance to the universe."
+    },
+    {
+      "moviePoster": "https://i.ibb.co.com/Yj3GqsB/The-God-father1-80ad8512-edc4-45c0-9594-a454fcf074f0.jpg",
+      "movieTitle": "The Godfather",
+      "genre": ["Crime", "Drama"],
+      "duration": 175,
+      "releaseYear": 1972,
+      "rating": 9.2,
+      "summary": "The aging patriarch of a powerful crime family transfers control of his empire to his reluctant son."
+    },
+        {
+          "moviePoster": "https://i.ibb.co.com/jJrsF4t/il-570x-N-4473413805-jjvj.webp",
+          "movieTitle": "Joker",
+          "genre": ["Drama", "Romance"],
+          "duration": 142,
+          "releaseYear": 1994,
+          "rating": 8.8,
+          "summary": "The extraordinary life of Forrest Gump, a man with low intelligence who accidentally influences several historical events in the 20th century."
+        },
+        {
+          "moviePoster": "https://i.ibb.co.com/bQYwtZp/71lj-C3i-8u-L-AC-UF894-1000-QL80.jpg",
+          "movieTitle": "Interstellar",
+          "genre": ["Sci-Fi", "Action"],
+          "duration": 136,
+          "releaseYear": 1999,
+          "rating": 8.7,
+          "summary": "A hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+        },
+        {
+          "moviePoster": "https://i.ibb.co.com/fHhZZRg/header.jpg",
+          "movieTitle": "SAW X",
+          "genre": ["Action", "Adventure", "Fantasy"],
+          "duration": 178,
+          "releaseYear": 2001,
+          "rating": 8.8,
+          "summary": "A young hobbit, Frodo, is tasked with destroying a powerful ring that threatens the world."
+        }
+      
+      
+  ]
+  
